@@ -1,0 +1,8 @@
+superkaramba (4.8.4-1) unstable; urgency=low
+
+  * Initial packaging, split from kdeutils.
+  * Update Standards-Version to 3.9.3, no changes needed.
+  * Add a watch file.
+  * Add myself to Uploaders.
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 18 Jun 2012 17:36:48 -0300
