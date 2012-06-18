@@ -28,18 +28,3 @@ Description: SuperKaramba theme support for the Plasma Workspaces
  the Plasma desktop.
  .
  This package is part of the KDE SC utilities module.
-
-Package: plasma-scriptengine-superkaramba-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: plasma-scriptengine-superkaramba (= ${binary:Version}), ${misc:Depends}
-Breaks: kdeutils-dbg (<< 4:4.8)
-Replaces: kdeutils-dbg (<< 4:4.8)
-Description: debugging symbols for plasma-scriptengine-superkaramba
- This package contains the debugging symbols for
- plasma-scriptengine-superkaramba. It is to be used in order to be able provide
- proper back traces for possible crashes or for running
- plasma-scriptengine-superkaramba in gdb or valgrind for meaningful output.
- .
- This package is part of the KDE SC utilities module.
