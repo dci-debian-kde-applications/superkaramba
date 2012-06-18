@@ -1,0 +1,45 @@
+Source: superkaramba
+Section: kde
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Fathi Boudra <fabo@debian.org>, Sune Vuorela <sune@debian.org>,
+ Modestas Vainius <modax@debian.org>,
+ George Kiagiadakis <kiagiadakis.george@gmail.com>,
+ José Manuel Santamaría Lema <panfaust@gmail.com>,
+ Eshat Cakar <info@eshat.de>,
+ Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.8.4),
+ cmake, debhelper (>= 8.0.0), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.8)
+Standards-Version: 3.9.3
+Homepage: http://www.kde.org
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/superkaramba.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/superkaramba.git
+
+Package: plasma-scriptengine-superkaramba
+Architecture: any
+Section: utils
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Replaces: superkaramba
+Breaks: superkaramba
+Description: SuperKaramba theme support for the Plasma Workspaces
+ This package provides SuperKaramba scriptengine for Plasma. It brings
+ support for the SuperKaramba interactive desktop applets, called "themes", to
+ the Plasma desktop.
+ .
+ This package is part of the KDE SC utilities module.
+
+Package: plasma-scriptengine-superkaramba-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: plasma-scriptengine-superkaramba (= ${binary:Version}), ${misc:Depends}
+Breaks: kdeutils-dbg (<< 4:4.8)
+Replaces: kdeutils-dbg (<< 4:4.8)
+Description: debugging symbols for plasma-scriptengine-superkaramba
+ This package contains the debugging symbols for
+ plasma-scriptengine-superkaramba. It is to be used in order to be able provide
+ proper back traces for possible crashes or for running
+ plasma-scriptengine-superkaramba in gdb or valgrind for meaningful output.
+ .
+ This package is part of the KDE SC utilities module.
