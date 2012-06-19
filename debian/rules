@@ -1,3 +1,8 @@
 #!/usr/bin/make -f
 
 include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
+
+# Install files to debian/tmp. This way I avoid to rewriting the .install
+# file if we need to re-add the dbg package.
+override_dh_auto_install:
+	dh_auto_install --destdir=debian/tmp
