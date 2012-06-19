@@ -5,4 +5,4 @@ superkaramba (4.8.4-1) unstable; urgency=low
   * Add a watch file.
   * Add myself to Uploaders.
 
- -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 18 Jun 2012 17:36:48 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Tue, 19 Jun 2012 09:58:20 -0300
