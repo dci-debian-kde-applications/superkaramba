@@ -1,5 +1,6 @@
-superkaramba (4.8.4-2) UNRELEASED; urgency=low
+superkaramba (4:4.8.4-2) UNRELEASED; urgency=low
 
+  * The "I missed the epoch" release.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 21 Jun 2012 14:14:10 -0300
 
