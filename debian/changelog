@@ -1,11 +1,11 @@
-superkaramba (4:4.8.4-3) UNRELEASED; urgency=low
+superkaramba (4:4.8.4-3) unstable; urgency=low
 
-  [ Pino Toscano ]
+  * Team upload.
   * Fix the section of plasma-scriptengine-superkaramba to be kde again.
   * Suggest again kde-workspace-bin.
   * Build depend on libkvm-dev on kfreebsd architectures to make it compile.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Jun 2012 21:09:00 +0200
+ -- Pino Toscano <pino@debian.org>  Tue, 26 Jun 2012 21:32:04 +0200
 
 superkaramba (4:4.8.4-2) unstable; urgency=low
 
