@@ -20,6 +20,7 @@ Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/superkaramba.git
 Package: plasma-scriptengine-superkaramba
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: kde-workspace-bin
 Replaces: superkaramba
 Breaks: superkaramba
 Description: SuperKaramba theme support for the Plasma Workspaces
