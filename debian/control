@@ -19,7 +19,6 @@ Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/superkaramba.git
 
 Package: plasma-scriptengine-superkaramba
 Architecture: any
-Section: utils
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Replaces: superkaramba
 Breaks: superkaramba

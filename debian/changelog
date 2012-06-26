@@ -1,5 +1,7 @@
 superkaramba (4:4.8.4-3) UNRELEASED; urgency=low
 
+  [ Pino Toscano ]
+  * Fix the section of plasma-scriptengine-superkaramba to be kde again.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Jun 2012 21:09:00 +0200
 
