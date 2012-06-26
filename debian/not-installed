@@ -1,2 +1,2 @@
 # We are not shipping development files.
-usr/bin/lib/libsuperkaramba.so
+./usr/lib/libsuperkaramba.so
