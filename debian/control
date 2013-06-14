@@ -12,7 +12,7 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
  kdelibs5-dev (>= 4:4.10), python-dev, libqimageblitz-dev (>= 1:0.0.4-2),
  libx11-dev, libxtst-dev, libxrender-dev,
  libkvm-dev [kfreebsd-any]
-Standards-Version: 3.9.3
+Standards-Version: 3.9.4
 Homepage: http://www.kde.org
 Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/superkaramba.git
 Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/superkaramba.git
