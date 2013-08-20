@@ -1,3 +1,8 @@
+superkaramba (4:4.10.5-2) UNRELEASED; urgency=low
+
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 20 Aug 2013 10:21:14 +0200
+
 superkaramba (4:4.10.5-1) unstable; urgency=low
 
   * New upstream release.
