@@ -1,9 +1,11 @@
-superkaramba (4:4.10.5-2) UNRELEASED; urgency=low
+superkaramba (4:4.11.1-0r0) UNRELEASED; urgency=low
+
+  * New upstream release.
 
   [ Pino Toscano ]
   * Add the pkg-config build dependency.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 20 Aug 2013 10:21:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 03 Sep 2013 20:20:35 +0200
 
 superkaramba (4:4.10.5-1) unstable; urgency=low
 
