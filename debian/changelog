@@ -1,11 +1,11 @@
-superkaramba (4:4.10.5-2) UNRELEASED; urgency=low
+superkaramba (4:4.10.5-2) unstable; urgency=low
 
-  [ Pino Toscano ]
+  * Team upload.
   * Add the pkg-config build dependency.
   * Improve the wildcard in plasma-scriptengine-superkaramba.install.
   * Update lintian overrides.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 20 Aug 2013 10:21:14 +0200
+ -- Pino Toscano <pino@debian.org>  Wed, 04 Sep 2013 17:22:03 +0200
 
 superkaramba (4:4.10.5-1) unstable; urgency=low
 
