@@ -1,4 +1,4 @@
 plasma-scriptengine-superkaramba: package-name-doesnt-match-sonames libsuperkaramba4
 # We are not shipping any development files for superkaramba, so we can
-3 safely ignore the missing symbols file.
-plasma-scriptengine-superkaramba: no-symbols-control-file usr/lib/libsuperkaramba.so.4.8.0
+# safely ignore the missing symbols file.
+plasma-scriptengine-superkaramba: no-symbols-control-file

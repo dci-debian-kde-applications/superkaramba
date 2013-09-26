@@ -2,13 +2,18 @@ superkaramba (4:4.11.1-0r0) UNRELEASED; urgency=low
 
   * New upstream release.
 
-  [ Pino Toscano ]
-  * Add the pkg-config build dependency.
-
   [ Maximiliano Curia ]
   * Update install files.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 03 Sep 2013 20:20:35 +0200
+
+superkaramba (4:4.10.5-2) unstable; urgency=low
+  * Team upload.
+  * Add the pkg-config build dependency.
+  * Improve the wildcard in plasma-scriptengine-superkaramba.install.
+  * Update lintian overrides.
+
+ -- Pino Toscano <pino@debian.org>  Wed, 04 Sep 2013 17:22:03 +0200
 
 superkaramba (4:4.10.5-1) unstable; urgency=low
 
