@@ -1,9 +1,9 @@
-superkaramba (4:4.11.2-1) UNRELEASED; urgency=low
+superkaramba (4:4.11.2-1) experimental; urgency=low
 
   * New upstream release.
   * Update install files.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 11:28:29 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 11:59:30 +0200
 
 superkaramba (4:4.10.5-2) unstable; urgency=low
   * Team upload.
