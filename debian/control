@@ -2,17 +2,25 @@ Source: superkaramba
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Fathi Boudra <fabo@debian.org>, Sune Vuorela <sune@debian.org>,
+Uploaders: Fathi Boudra <fabo@debian.org>,
+           Sune Vuorela <sune@debian.org>,
            Modestas Vainius <modax@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
            Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.11),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11), python-dev, libqimageblitz-dev (>= 1:0.0.4-2),
- pkg-config, libx11-dev, libxtst-dev, libxrender-dev,
- libkvm-dev [kfreebsd-any]
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libkvm-dev [kfreebsd-any],
+               libqimageblitz-dev (>= 1:0.0.4-2),
+               libx11-dev,
+               libxrender-dev,
+               libxtst-dev,
+               pkg-config,
+               pkg-kde-tools (>= 0.12),
+               python-dev
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/superkaramba.git
@@ -20,7 +28,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/superkaramba.git
 
 Package: plasma-scriptengine-superkaramba
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: kde-workspace-bin
 Replaces: superkaramba
 Breaks: superkaramba
