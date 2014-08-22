@@ -1,6 +1,7 @@
 superkaramba (4:4.14.0-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Drop source-is-missing lintian-override.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 06:15:36 +0200
 
