@@ -1,5 +1,8 @@
 superkaramba (4:4.14.0-2) UNRELEASED; urgency=medium
 
+  [ Lisandro Damián Nicanor Pérez Meyer ]
+  * Remove myself from Uploaders.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 04 Oct 2014 12:19:24 -0300
 
 superkaramba (4:4.14.0-1) unstable; urgency=medium
