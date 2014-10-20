@@ -1,4 +1,4 @@
-superkaramba (4:4.14.2-1~) UNRELEASED; urgency=medium
+superkaramba (4:4.14.2-1) unstable; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Remove myself from Uploaders.
@@ -6,7 +6,7 @@ superkaramba (4:4.14.2-1~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * New upstream release (4.14.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 16 Oct 2014 13:46:09 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 20 Oct 2014 17:13:19 +0200
 
 superkaramba (4:4.14.0-1) unstable; urgency=medium
 
