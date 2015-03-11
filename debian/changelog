@@ -2,6 +2,7 @@ superkaramba (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * Add back kdelibs parent version depend. 
   * New upstream release
+  * Fix kdelibs5 verssion in build depends 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Mar 2015 11:45:21 -0700
 
