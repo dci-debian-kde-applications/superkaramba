@@ -1,3 +1,9 @@
+superkaramba (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 15 Apr 2015 15:15:28 -0700
+
 superkaramba (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * Add back kdelibs parent version depend. 
