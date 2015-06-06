@@ -1,10 +1,14 @@
-superkaramba (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
+superkaramba (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release
   * Fix kdelibs version 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 23:19:03 -0700
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 02:46:13 +0200
 
 superkaramba (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
