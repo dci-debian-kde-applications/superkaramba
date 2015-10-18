@@ -1,10 +1,11 @@
-superkaramba (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
+superkaramba (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
   * Fix kdelibs version 
   * Vivid backport
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 12:46:14 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Sun, 18 Oct 2015 10:34:46 -0700
 
 superkaramba (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
