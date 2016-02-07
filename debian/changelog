@@ -1,3 +1,10 @@
+superkaramba (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+  * Merged with Debian
+
+ -- Clive Johnston <clivejo@aol.com>  Sun, 07 Feb 2016 15:37:20 +0000
+
 superkaramba (4:15.08.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
